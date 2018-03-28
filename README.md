@@ -10,3 +10,9 @@
 ### bash cmake ..
 ### bash make 
 ### congrats you have your own game make changes in src and then in build do make it will reflect the changes you made in src
+
+
+## CONTROLS
+###->space - jump
+###->right-key -- move right
+###->left-key -- move left
